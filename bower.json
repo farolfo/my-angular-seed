@@ -1,0 +1,17 @@
+{
+  "name": "",
+  "description": "",
+  "version": "0.0.1",
+  "homepage": "",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "angular": "1.3.x",
+    "angular-ui-router": "*",
+    "angular-resource": "*",
+    "underscore": "*",
+    "jquery": "*",
+    "bootstrap": "*",
+    "angular-bootstrap": "*"
+  }
+}
