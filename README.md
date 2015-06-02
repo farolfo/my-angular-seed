@@ -1,6 +1,6 @@
 # My Angular Seed
 
-My persona angular seed, all installed, no need to delete anything but start developing NOW
+My personal angular seed, all installed, no need to delete anything but start developing NOW
 
 _Note: You only need to change THIS file :D_
 
