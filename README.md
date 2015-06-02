@@ -1,13 +1,13 @@
 # My Angular Seed
 
-No need to delete anything on this angular seed project, start developing NOW...
+My persona angular seed, all installed, no need to delete anything but start developing NOW
 
-__Note: You only need to change THIS file :D__
+_Note: You only need to change THIS file :D_
 
 ### What is included?
 
 * [AngularJS](https://angularjs.org/)
-* [Angular-UI](https://angular-ui.github.io/) (using [UI-Router](http://angular-ui.github.io/ui-router/site/#/api/ui.router) and [UI-Bootstrap](http://angular-ui.github.io/bootstrap/)
+* [Angular-UI](https://angular-ui.github.io/) (using [UI-Router](http://angular-ui.github.io/ui-router/site/#/api/ui.router) and [UI-Bootstrap](http://angular-ui.github.io/bootstrap/))
 * [Twitter Bootstrap v3](http://getbootstrap.com/)
 * [Grunt](http://gruntjs.com/)
 * [Less](http://lesscss.org/) (built using Grunt)
@@ -15,9 +15,9 @@ __Note: You only need to change THIS file :D__
 
 ### Install
 
-You need to install node in your machine. I recommend doing this trough nvm.
+You need to install node in your machine (I recommend doing it through [nvm](https://github.com/creationix/nvm)).
 
-Once done, run this on install the project dependencies
+Once done, install the project dependencies
 
 ```
 $ npm install -g grunt-cli
